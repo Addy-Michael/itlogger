@@ -1,0 +1,43 @@
+{
+  "logs": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "i am fixed",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-05-04T07:32:29.436Z"
+    },
+    {
+      "message": "new error ",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-05-04T07:49:26.533Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Addy",
+      "id": 4
+    }
+  ]
+}
