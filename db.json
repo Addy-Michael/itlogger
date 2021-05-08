@@ -38,6 +38,16 @@
       "firstName": "Michael",
       "lastName": "Addy",
       "id": 4
+    },
+    {
+      "firstName": "Rudy",
+      "lastName": "Addy",
+      "id": 5
+    },
+    {
+      "firstName": "Dorinda",
+      "lastName": "Boateng",
+      "id": 8
     }
   ]
 }

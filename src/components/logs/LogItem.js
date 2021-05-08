@@ -4,7 +4,6 @@ import Moment from "react-moment";
 import PropTypes from "prop-types";
 import { deleteLog, setCurrent } from "../actions/logActions";
 import M from "materialize-css/dist/js/materialize.min.js";
-import { SET_CURRENT } from "../actions/types";
 
 const LogItem = ({ log, deleteLog, setCurrent }) => {
   const onDelete = () => {
